@@ -1,1 +1,2 @@
 a user can add a new task with a title and a due date 
+New task start with the status todo
